@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: test
+    env: static
+    staticPublishPath: .
+    buildCommand: ""
